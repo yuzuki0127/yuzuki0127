@@ -34,7 +34,7 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzuki0127&theme=vue-dark&layout=compact" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuzuki0127&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuzuki0127&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
