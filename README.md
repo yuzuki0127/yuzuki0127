@@ -16,11 +16,9 @@
 # 🌱 Skills
 ### frontend
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,tailwind,js,ts,react,next" />
-<br>
 
 ### backend
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,php,laravel" />
-<br>
 
 ### other
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=docker,postman,mysql,postgres,vercel" />
