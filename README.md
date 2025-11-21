@@ -32,7 +32,7 @@
   <img alt="github stats" height="170px" src="https://github-profile-stats-two.vercel.app/api/top-langs/?username=yuzuki0127&count_private=true&theme=vue-dark&layout=compact" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuzuki0127&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-rouge.vercel.app/?username=yuzuki0127&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
