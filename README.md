@@ -28,8 +28,8 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 # 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=yuzuki0127&count_private=true&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzuki0127&count_private=true&theme=vue-dark&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-profile-stats-iota.vercel.app/api?username=yuzuki0127&count_private=true&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-profile-stats-iota.vercel.app/api/top-langs/?username=yuzuki0127&count_private=true&theme=vue-dark&layout=compact" />
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuzuki0127&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
